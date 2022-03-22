@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 I'm currently learning Java for making a minecraft client.
 I’m looking to collaborate on minecraft related stuff.
+
 How to reach me: My discord is: Glitched Panda#6839
