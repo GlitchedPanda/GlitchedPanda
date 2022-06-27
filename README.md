@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/983420226945298514/990208771114532924/Glitched_Panda_Gif.gif"> 
+
 ### Hi there 👋
 
 <!--
