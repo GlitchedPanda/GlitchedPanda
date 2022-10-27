@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/983420226945298514/990208771114532924/Glitched_Panda_Gif.gif"> 
+<img src="https://cdn.discordapp.com/attachments/1023639835484893297/1035183658417537054/Glitched_Panda_Gif.gif"> 
 
 ### Hi there 👋
 
