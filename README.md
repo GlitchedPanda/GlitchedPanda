@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning Java for making a minecraft client.
-I’m looking to collaborate on minecraft related stuff.
+I'm currently learning C/C++
 
-How to reach me: My discord is: Glitched Panda#6839
+How to reach me: My discord is: GlitchedPanda
