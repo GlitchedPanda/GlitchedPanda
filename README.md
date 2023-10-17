@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I'm currently learning C/C++
 
-How to reach me: My discord is: GlitchedPanda
+My discord username is: GlitchedPanda
