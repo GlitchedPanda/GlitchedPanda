@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 I'm currently learning C/C++
 
 My discord username is: GlitchedPanda
+
+### Stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=glitchedpanda)]
