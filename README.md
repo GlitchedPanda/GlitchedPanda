@@ -24,4 +24,4 @@ My discord username is: GlitchedPanda
 ### Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=glitchedpanda&show_icons=true&theme=shadow_blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchedpanda&hide_progress=true&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchedpanda&hide_progress=false&theme=shadow_blue)
