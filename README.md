@@ -25,3 +25,6 @@ My discord username is: GlitchedPanda
 ![My github stats](https://github-readme-stats.vercel.app/api?username=glitchedpanda&show_icons=true&theme=shadow_blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchedpanda&hide_progress=false&theme=shadow_blue)
+
+### Random Developer Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
