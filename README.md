@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1023639835484893297/1035183658417537054/Glitched_Panda_Gif.gif"> 
+<img src="https://github.com/GlitchedPanda/GlitchedPanda/assets/82221876/149d5306-1cdc-4e8b-8cc8-5ac321267189"> 
 
 ### Hi there 👋
 
