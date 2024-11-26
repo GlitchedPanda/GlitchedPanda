@@ -1,6 +1,6 @@
-<img src="https://github.com/GlitchedPanda/GlitchedPanda/assets/82221876/149d5306-1cdc-4e8b-8cc8-5ac321267189"> 
+<!--<img src="https://github.com/GlitchedPanda/GlitchedPanda/assets/82221876/149d5306-1cdc-4e8b-8cc8-5ac321267189"> -->
 
-### Hi there 👋
+### Hello!
 
 <!--
 **GlitchedPanda/GlitchedPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
