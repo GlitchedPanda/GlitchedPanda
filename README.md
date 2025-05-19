@@ -6,7 +6,7 @@
 
 I am GlitchedPanda (he/him). I'm proficient in inconvenience engineering and banging my head against the wall. Currently learning rust and graphics programming.
 
-Contact me on discord me username is `GlitchedPanda`.
+Contact me on discord, my username is `GlitchedPanda`.
 
 ## Technical Arsenal
 
