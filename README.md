@@ -25,7 +25,7 @@ Contact me on discord, my username is `GlitchedPanda`.
 ## Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=glitchedpanda&show_icons=true&theme=shadow_blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchedpanda&hide_progress=false&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchedpanda&hide_progress=false&theme=shadow_blue&exclude_repo=dotfiles,bluebell,nvim,blog)
 
 ## Random Developer Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_blue&border=true)
