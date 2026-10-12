@@ -4,7 +4,7 @@
 ![Arch User](https://img.shields.io/badge/-I%20use%20arch%20btw-3a4e84?logo=arch-linux&logoColor=white)
 ![Rustacean](https://img.shields.io/badge/Rustacean--in--training-3a4e84?logo=rust&logoColor=white)
 
-I am GlitchedPanda (he/him). I'm proficient in inconvenience engineering and banging my head against the wall. Currently learning rust and graphics programming.
+I’m a self-taught systems developer from Norway. I work on low-level tools, emulation, and graphics using Rust, C++, and Python.
 
 Contact me on discord, my username is `GlitchedPanda`.
 
